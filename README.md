@@ -7,5 +7,6 @@ Add your name below:</H1>
 <ul>
   <li>Kurt Colvin</li>
   <li>Student1</li>
+  <li>John Stockton</li>
 
 </ul> 
