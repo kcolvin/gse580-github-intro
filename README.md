@@ -8,5 +8,5 @@ Add your name below:</H1>
   <li>Kurt Colvin</li>
   <li>Student1</li>
   <li>John Stockton</li>
-
+  <li>Michael Jordan</li>
 </ul> 
