@@ -11,5 +11,5 @@ Add your name below:</H1>
   <li>Michael Jordan</li>
   <li>Karl Malone</li>
   <li>Bzwarg</li>
-  <li>ebohnenb</li>
+  <li>Erick Bohnenblust</li>
 </ul> 
